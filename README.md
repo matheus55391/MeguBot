@@ -1,3 +1,3 @@
 # MeguBot
 
-Um bot para o discord
+Base para desenvolvimento de bots para discord com typescript
